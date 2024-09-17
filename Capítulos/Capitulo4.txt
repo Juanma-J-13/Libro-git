@@ -1,0 +1,1 @@
+Se intenta ver el historial de cambios, subiendo los archivos nuevos al repositorio remoto en GitHub.
